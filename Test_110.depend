@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1661590769 source:f:\eng\embedded systems\tests\test_110\src.c
+
+1661586906 source:f:\eng\embedded systems\tests\test_110\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1661586711 f:\eng\embedded systems\tests\test_110\header.h
+
